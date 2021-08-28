@@ -2,3 +2,6 @@ Esta es la primera clase de desarrollo web de la especialización en IoT: git
 esta línea está para probar hacer otro commit
 línea más
 en este momento vamos a probar el comando git reset
+
+
+Estamos en otra línea del tiempo
