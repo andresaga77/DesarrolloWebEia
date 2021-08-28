@@ -1,1 +1,1 @@
-Historia
+Esta es la primera clase de desarrollo web de la especialización en IoT: git
